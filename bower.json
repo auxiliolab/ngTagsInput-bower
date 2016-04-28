@@ -7,7 +7,7 @@
     "ng-tags-input.js",
     "ng-tags-input.css"
   ],
-  "description": "Tags input directive for AngularJS",
+  "description": "Forked Bower repository for ngTagsInput",
   "dependencies": {
     "angular": ">=1.3.0"
   }
